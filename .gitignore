@@ -13,3 +13,5 @@ __pycache__/
 .coverage.*
 /htmlcov/
 /docs/_build/
+
+_rez_build
